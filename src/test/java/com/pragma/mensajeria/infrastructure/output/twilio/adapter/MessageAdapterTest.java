@@ -49,6 +49,7 @@ class MessageAdapterTest {
                     )
             );
             verify(creatorMock).create();
+
         }
     }
 }
